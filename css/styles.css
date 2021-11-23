@@ -52,7 +52,7 @@ ul {
   margin: -1px;
 }
 
-.header {
+header {
   border-bottom: 1px solid var(--border-header-color);
 }
 
@@ -331,6 +331,7 @@ img {
 .portfolio-project-name {
   padding: 20px 24px;
   border: 1px solid var(--border-color);
+  border-top: none;
 }
 
 .portfolio-list {
